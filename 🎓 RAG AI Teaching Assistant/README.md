@@ -213,11 +213,6 @@ You can customize the following in the scripts:
 Pull requests are welcome! Ideas for improvement include adding a web UI (Flask/Streamlit), support for direct YouTube URL ingestion, or a vector database like ChromaDB for larger course libraries.
 
 ---
-
-## 📝 License
-
-This project is licensed under the MIT License.
-
 ---
 
 <p align="center">Made with 🎓 using Whisper, Ollama & scikit-learn — runs 100% locally</p>
